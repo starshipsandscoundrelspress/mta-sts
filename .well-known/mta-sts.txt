@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: starshipsandscoundrels.com
+mx: starshipsandscoundrelspress.com
 max_age: 86400
