@@ -1,4 +1,4 @@
 version: STSv1
 mode: testing
-mx: starshipsandscoundrelspress.com
+mx: smtp.google.com
 max_age: 86400
